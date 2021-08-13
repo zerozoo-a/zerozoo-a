@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zerozoo-front
 - 👀 I’m interested in ... JS, TS, Node.js
-- 🌱 I’m currently learning ... TS, node.js, redux, mobx
+- 🌱 I’m currently learning ... TS, node.js, RTK, jest!
 - 📫 How to reach me ...zerozoo385@gmail.com
 
 <!---
