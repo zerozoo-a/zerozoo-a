@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zerozoo-front
-- 👀 I’m interested in ... JS, TS, Node.js,  Rust
-- 🌱 I’m currently learning ... TS, node.js, RTK, jest!
+- 🌱 I’m currently learning ... TS, Node.js, RTK, jest, Rust, express!
 - 📫 How to reach me ...zerozoo385@gmail.com
 
 <!---
