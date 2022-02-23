@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zerozoo-front
-- 🌱 I’m currently learning ... TS, Node, Java, Rust, Go, WebGL, algorithm🧨, data structure☠️, math😇
+- 🌱 I’m currently learning ... TS, Node, Java, Rust, Go, WebGL, algorithm🧨, data structure☠️, 
 - 📫 How to reach me ...zerozoo385@gmail.com
 
 <!---
