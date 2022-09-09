@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zerozoo-front
-- 🌱 I’m currently learning ... (= Clojure 🥰) ; => true, TS, Node, algorithm🧨, data structure☠️, and more...(playwright 🎭, jest) 
+- 🌱 I’m currently learning ... (= Clojure 🥰) ; => true, TS, Node.js, algorithm🧨, data structure☠️, and more...(playwright 🎭, jest) 
 - 📫 How to reach me ...zerozoo385@gmail.com
 - 📜 My Own blog = [blog](https://zerozoo-a.github.io/)/  # created by nest.js, next.js, postgresql, typeorm, ...etc 🥳
 
