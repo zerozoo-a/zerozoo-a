@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zerozoo-a
-- 🌱 I’m currently learning  TS, Node.js, algorithm🧨, data structure☠️, and more...(msw, jest) 
-- 📫 How to reach me ...zerozoo385@gmail.com
-- 📜 My Own blog = [blog](https://zerozoo-a.github.io/) 
+- 📫 How to reach me 
+zerozoo385@gmail.com
+- 📜 blog = [blog](https://zerozoo-a.github.io/) 
 
  
 <!---
